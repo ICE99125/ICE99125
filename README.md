@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ICE99125&show_icons=true" alt="github stats"/>
 </p>
 
-<h3 align="center"> 🗂️ profile summary </h3>
+<h3 align="center"> 🎯 profile summary </h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICE99125&theme=github" alt="profile summary"/>
 </p>
@@ -37,11 +37,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" />  
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<h3 align="center"> 📲 Contact Me </h3>
-<p align="center">
-  <a href="https://wpa.qq.com/msgrd?v=3&uin=1638330246&site=qq&menu=yes&jumpflag=1" target="_blank">
-    <img src="https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="profile summary"/>
-  </a>
 </p>
