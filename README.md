@@ -1,10 +1,13 @@
-<h1 align="center">Here is ARCTURUS</h1> 
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&pause=1000&width=435&lines=Hi!+here+is+ARCTURUS." alt="hi" />
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ICE99125&theme=vue&hide_border=true" alt="gitHub streak stats"/>
 </p>
 
-<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ICE99125&show_icons=true&theme=transparent" align="right"/>
+
+<div>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -71,4 +74,4 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a>
-</p>
+</div>
