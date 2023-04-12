@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&pause=1000&center=true&width=435&lines=Hi!+here+is+ARCTURUS." alt="hi" />
+</div>
+
+<div align="center">
   <img src="https://count.getloli.com/get/@ICE99125?theme=gelbooru" alt="visitors"/>
 </div>
 
