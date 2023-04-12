@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&pause=1000&center=true&width=435&lines=Hi!+here+is+ARCTURUS." alt="hi" />
+  <img src="https://count.getloli.com/get/@ICE99125?theme=gelbooru" alt="visitors"/>
 </div>
 
-<p align="center">
+<div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ICE99125&theme=vue&hide_border=true" alt="gitHub streak stats"/>
-</p>
-
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ICE99125&show_icons=true&theme=transparent" width="50%" align="right"/>
 
@@ -104,8 +104,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
     </a>
   </div>
-  
-  <img src="https://count.getloli.com/get/@ICE99125?theme=gelbooru" alt="visitors"/>
 </div>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ice99125&bg_color=ffffff&area_color=1677ff&color=000000&line=91caff&point=1677ff&area=true&hide_border=true&hide_title=true&radius=10" />
