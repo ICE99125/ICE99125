@@ -104,6 +104,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
     </a>
   </div>
+  
+  <img src="https://count.getloli.com/get/@ICE99125?theme=gelbooru" alt="visitors"/>
 </div>
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ice99125&bg_color=ffffff&area_color=1677ff&color=000000&line=91caff&point=1677ff&area=true&hide_border=true&hide_title=true&radius=10" />
