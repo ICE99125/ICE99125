@@ -1,4 +1,6 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&pause=1000&width=435&lines=Hi!+here+is+ARCTURUS." alt="hi" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&pause=1000&center=true&width=435&lines=Hi!+here+is+ARCTURUS." alt="hi" />
+</div>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ICE99125&theme=vue&hide_border=true" alt="gitHub streak stats"/>
@@ -75,3 +77,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a>
 </div>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ice99125&bg_color=ffffff&area_color=1677ff&color=000000&line=91caff&point=1677ff&area=true&hide_border=true&hide_title=true&radius=10" />
