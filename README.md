@@ -10,7 +10,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ICE99125&theme=vue&hide_border=true" alt="gitHub streak stats"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ICE99125&show_icons=true&theme=transparent" width="50%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ICE99125&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="50%" align="left"/>
 
 <div>
   <h3>Languages</h3>
@@ -59,7 +59,7 @@
   </a>
 </div>
 
-<img src="./assets/wallpaper.png" width="50%" alt="wallpaper" align="right" />
+<img src="./assets/wallpaper.png" width="50%" alt="wallpaper" align="left" />
 
 <div>
   <h3>Databases</h3>
